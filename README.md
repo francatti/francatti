@@ -1,16 +1,30 @@
-### Hi there 👋
+![banner github](https://media.licdn.com/dms/image/D4D16AQElNlIWWIbxvg/profile-displaybackgroundimage-shrink_350_1400/0/1689718694945?e=1696464000&v=beta&t=ky_pv3n19EH7_LW-9UINqe6wOgJ2K8HweQzaVsQ6BWU)
 
-<!--
-**francatti/francatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![francatti's GitHub stats](https://github-readme-stats.vercel.app/api?username=francatti&show_icons=true&title_color=a05eee&text_color=18829c&icon_color=d74fdc&hide_border=true&bg_color=000000) 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Nível  | Skills |
+| ------------- | ------------- |
+| Tenho experiência  | [![skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,py,mongodb,mysql,netlify,git,figma,vscode&perline=30)](https://skillicons.dev)  |
+| Estou estudando  | [![skills](https://skillicons.dev/icons?i=sass,nodejs,jest,electron&perline=10)](https://skillicons.dev)  |
+| Tenho interesse  | [![skills](https://skillicons.dev/icons?i=react,kotlin,nextjs,ts&perline=10)](https://skillicons.dev)  |
+
+
+
+
+<img src='https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white' url='twitch.tv/nixolaw'> <img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white' url='discord.com/channels/@me/935339485384810536'> <img src='https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white' url='https://www.fiverr.com/francatti?up_rollout=true'> <img src='https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white' url='https://www.freecodecamp.org/francatti'> <img src='https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white' url='https://www.udemy.com/user/nicholas-custodio-boreto-francatti-2/'> <img src='https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white' url='https://soundcloud.com/francattibrothers'>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
